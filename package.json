@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "react-router": "^7.5.0",
+    "react-toastify": "^11.0.5"
+  }
+}
